@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+#eg1{
+	width:200px;
+	height:200px;
+	color:purple;
+	text-align: center;
+    vertical-align: middle;
+    line-height: 200px; 
+	border-style:solid;
+	background-size:2px;
+	border-color:black;
+	background-color:lightblue;
+	}
